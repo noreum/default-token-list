@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xd4e3d8ff5ac26b68c8be692e6dca967fbb07692f",
+    "chainId": 1029,
+    "name": "WBTT",
+    "symbol": "WBTT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x68CFb82Eacb9f198d508B514d898a403c449533E/logo.png"
+  },
+  {
+    "address": "0x6e9240b4b93f905da9d1d41db6d7315cbcd9e615",
+    "chainId": 1029,
+    "name": "Sun Token",
+    "symbol": "SUN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629/logo.png"
+  }
+]
